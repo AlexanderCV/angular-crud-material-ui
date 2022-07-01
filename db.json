@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 1,
+      "comment": "this is fresh apple",
+      "date": "2022-06-29T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Alcatel",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 500,
+      "comment": "Cell economy",
+      "date": "2022-06-21T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Monitor",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 750,
+      "comment": "Monitor 27 pulgadas",
+      "date": "2022-06-15T05:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "XiaOmi - editado",
+      "category": "electronic",
+      "freshness": "Second Hand",
+      "price": 500,
+      "comment": "Gama alta",
+      "date": "2022-06-15T05:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Apple - editado",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 1700,
+      "comment": "this is fresh apple",
+      "date": "2022-06-29T05:00:00.000Z",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
